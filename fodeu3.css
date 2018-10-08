@@ -1,0 +1,12 @@
+div.pt1 {background-color: gray;}
+h1.h1 {text-align: center;}
+div.cabeça{margin-top: 10px;}
+h1.h2{text-align: left;}
+h1.h3{text-align: right;}
+div img{border-radius: 50%; height: 60px; width: 60px;}
+div.foto{float: left;}
+div.tudo1{float: left;}
+div.tudo2{float: right;}
+p.partido{color: gray; margin-top: 0px; }
+span{border-radius: 20%;}
+div.progress{margin-top: 30px;clear: both;}
